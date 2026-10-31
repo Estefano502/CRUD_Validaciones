@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsandoCRUD_Validaciones", "UsandoCRUD_Validaciones\UsandoCRUD_Validaciones.csproj", "{C86D5A40-2A3E-4943-BF32-D139B1BC631A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C86D5A40-2A3E-4943-BF32-D139B1BC631A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C86D5A40-2A3E-4943-BF32-D139B1BC631A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C86D5A40-2A3E-4943-BF32-D139B1BC631A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C86D5A40-2A3E-4943-BF32-D139B1BC631A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D23C5913-8E34-4133-80D1-70E9989DECA3}
+	EndGlobalSection
+EndGlobal
